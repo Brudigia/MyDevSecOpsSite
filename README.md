@@ -1,2 +1,7 @@
 # MyDevSecOpsSite
-My DevSexOps test site will be used for the test of the course
+
+This page tells you a little bit about me.
+My name is Bruno Di Giandomenico.
+<br><br>
+I am trying to finish this course on DevSecOps, it has been **incredibly** usefu
+l for me and my job.
